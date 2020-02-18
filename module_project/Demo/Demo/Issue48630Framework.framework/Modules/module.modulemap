@@ -1,0 +1,6 @@
+framework module Issue48630Framework {
+  umbrella header "Issue48630Framework.h"
+
+  export *
+  module * { export * }
+}
